@@ -1,6 +1,6 @@
 package tikal.model;
 
-import java.io.Serializable;
+import java.io.Serializable;import java.lang.String;
 
 public class Checkin implements Serializable{
 
